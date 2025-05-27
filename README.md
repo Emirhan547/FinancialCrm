@@ -28,6 +28,8 @@ Kullanıcı dostu arayüzü sayesinde harcama takibi, banka hareketlerinin yöne
 
 ---
 
+![Ekran görüntüsü 2025-05-27 184613](https://github.com/user-attachments/assets/5fd97f28-28d1-4a74-800f-298989c8735d)
+
 ![Ekran görüntüsü 2025-05-27 184406](https://github.com/user-attachments/assets/ba0cd54e-a7b1-43a8-b58a-f116ad4f86af)
 
 ![Ekran görüntüsü 2025-05-27 184655](https://github.com/user-attachments/assets/7930cea5-ab24-408a-8fc7-e50a230f42bb)
